@@ -1,0 +1,74 @@
+[
+    {
+        "id": "1",
+        "name": "Magic Glitter",
+        "image": "fa-solid fa-hand-sparkles",
+        "price": "10"
+    },
+    {
+        "id": "2",
+        "name": "Construction Cap",
+        "image": "fa-solid fa-hard-hat",
+        "price": "35"
+    },
+    {
+        "id": "3",
+        "name": "Cowboy Hat",
+        "image": "fa-solid fa-hat-cowboy",
+        "price": "35"
+    },
+    {
+        "id": "4",
+        "name": "Pied Piper Hat",
+        "image": "fa-brands fa-pied-piper-hat",
+        "price": "35"
+    },
+    {
+        "id": "5",
+        "name": "Wizard Hat",
+        "image": "fa-solid fa-hat-wizard",
+        "price": "40"
+    },
+    {
+        "id": "6",
+        "name": "Spell Book",
+        "image": "fa-solid fa-book",
+        "price": "50"
+    },
+    {
+        "id": "7",
+        "name": "Magic Wand",
+        "image": "fa-solid fa-wand-magic",
+        "price": "70"
+    },
+    {
+        "id": "8",
+        "name": "Sparkly Wand",
+        "image": "fa-solid fa-wand-sparkles",
+        "price": "75"
+    },
+    {
+        "id": "9",
+        "name": "Sparkly Magic Wand",
+        "image": "fa-solid fa-wand-magic-sparkles",
+        "price": "80"
+    },
+    {
+        "id": "10",
+        "name": "Broom",
+        "image": "fa-solid fa-broom",
+        "price": "80"
+    },
+    {
+        "id": "11",
+        "name": "Broom & Ball",
+        "image": "fa-solid fa-broom-ball",
+        "price": "100"
+    },
+    {
+        "id": "12",
+        "name": "Explosion!",
+        "image": "fa-solid fa-explosion",
+        "price": "1000"
+    }
+]

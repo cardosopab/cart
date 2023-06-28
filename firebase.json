@@ -1,0 +1,11 @@
+{
+  "hosting": {
+    "site": "cardosopab-shop",
+    "public": "/",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}

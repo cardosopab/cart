@@ -1,0 +1,27 @@
+:root {
+    margin: 0;
+    padding: 0;
+    background-color: rgba(0, 0, 0, 0.9);
+    color: white;
+    font-size: 18px;
+}
+
+body {
+    font-family: "Cinzel Decorative", 'Times New Roman', Times, serif;
+    max-width: 1000px;
+    margin: auto auto;
+}
+
+@supports (-webkit-touch-callout: none) {
+    /* Safari-specific styles */
+    button.safari-button {
+        font-size: 1.2rem;
+        padding: 10px 20px;
+    }
+}
+
+@media (max-width: 800px) {
+    :root {
+        font-size: 18px;
+    }
+}
